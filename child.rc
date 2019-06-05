@@ -1,0 +1,27 @@
+
+  mailboxes "+bentley"
+  mailboxes "+chrysler"
+
+account fruit
+  set folder = "$DEMO_DIR/fruit"
+  set index_format = "FRUIT FRUIT FRUIT"
+  set sort = "score"
+  set sort_aux = "score"
+
+  mailboxes "+lemon"
+  mailboxes "+melon"
+  mailboxes "+nectarine"
+  mailboxes "+orange"
+
+account ocean
+  set folder = "$DEMO_DIR/ocean"
+  set index_format = "OCEANS OCEANS OCEANS"
+  set sort = "threads"
+  set sort_aux = "threads"
+
+  mailboxes "+atlantic"
+  mailboxes "+indian"
+  mailboxes "+pacific"
+  mailboxes "+southern"
+
+# vim: syn=neomuttrc

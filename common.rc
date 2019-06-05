@@ -1,0 +1,16 @@
+set spoolfile  = "/dev/null"
+set sleep_time = 0
+
+set sidebar_delim_chars   = "/.-"
+set sidebar_folder_indent = yes
+set sidebar_format        = "%B%?F? [%F]?%* %?N?%N/?%?S?%S?"
+set sidebar_indent_string = " "
+set sidebar_short_path    = yes
+set sidebar_visible       = yes
+set sidebar_width         = 20
+
+bind index,pager \CN sidebar-next
+bind index,pager \CO sidebar-open
+bind index,pager \CP sidebar-prev
+
+# vim: syn=neomuttrc

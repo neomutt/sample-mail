@@ -1,0 +1,26 @@
+source common.rc
+
+account cars
+  set folder = "$DEMO_DIR/cars"
+  set index_format = "CARS CARS CARS"
+  set sort = "from"
+  set sort_aux = "from"
+
+  mailboxes "+audi"
+
+source child.rc
+
+  mailboxes "+daimler"
+
+account trees
+  set folder = "$DEMO_DIR/trees"
+  set index_format = "TREES TREES TREES"
+  set sort = "label"
+  set sort_aux = "label"
+
+  mailboxes "+maple"
+  mailboxes "+oak"
+  mailboxes "+poplar"
+  mailboxes "+rowan"
+
+# vim: syn=neomuttrc
