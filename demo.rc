@@ -2,7 +2,7 @@ source common.rc
 
 account cars
   set folder = "$DEMO_DIR/cars"
-  set index_format = "CARS CARS CARS"
+  set index_format = "CARS %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
   set sort = "from"
   set sort_aux = "from"
 
@@ -13,7 +13,7 @@ account cars
 
 account fruit
   set folder = "$DEMO_DIR/f1/fruit"
-  set index_format = "FRUIT FRUIT FRUIT"
+  set index_format = "FRUIT %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
   set sort = "score"
   set sort_aux = "score"
 
@@ -24,7 +24,7 @@ account fruit
 
 account ocean
   set folder = "$DEMO_DIR/o1/o2/ocean"
-  set index_format = "OCEANS OCEANS OCEANS"
+  set index_format = "OCEANS %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
   set sort = "threads"
   set sort_aux = "threads"
 
@@ -35,7 +35,7 @@ account ocean
 
 account trees
   set folder = "$DEMO_DIR/t1/t2/t3/trees"
-  set index_format = "TREES TREES TREES"
+  set index_format = "TREES %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
   set sort = "label"
   set sort_aux = "label"
 

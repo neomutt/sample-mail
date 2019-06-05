@@ -2,7 +2,7 @@ source common.rc
 
 account cars
   set folder = "$DEMO_DIR/cars"
-  set index_format = "CARS CARS CARS"
+  set index_format = "CARS %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
   set sort = "from"
   set sort_aux = "from"
 
@@ -14,7 +14,7 @@ source child.rc
 
 account trees
   set folder = "$DEMO_DIR/t1/t2/t3/trees"
-  set index_format = "TREES TREES TREES"
+  set index_format = "TREES %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
   set sort = "label"
   set sort_aux = "label"
 
