@@ -13,7 +13,7 @@ source child.rc
   mailboxes "+daimler"
 
 account trees
-  set folder = "$DEMO_DIR/trees"
+  set folder = "$DEMO_DIR/t1/t2/t3/trees"
   set index_format = "TREES TREES TREES"
   set sort = "label"
   set sort_aux = "label"

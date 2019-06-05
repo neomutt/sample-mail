@@ -12,7 +12,7 @@ account cars
   mailboxes "+daimler"
 
 account fruit
-  set folder = "$DEMO_DIR/fruit"
+  set folder = "$DEMO_DIR/f1/fruit"
   set index_format = "FRUIT FRUIT FRUIT"
   set sort = "score"
   set sort_aux = "score"
@@ -23,7 +23,7 @@ account fruit
   mailboxes "+orange"
 
 account ocean
-  set folder = "$DEMO_DIR/ocean"
+  set folder = "$DEMO_DIR/o1/o2/ocean"
   set index_format = "OCEANS OCEANS OCEANS"
   set sort = "threads"
   set sort_aux = "threads"
@@ -34,7 +34,7 @@ account ocean
   mailboxes "+southern"
 
 account trees
-  set folder = "$DEMO_DIR/trees"
+  set folder = "$DEMO_DIR/t1/t2/t3/trees"
   set index_format = "TREES TREES TREES"
   set sort = "label"
   set sort_aux = "label"
