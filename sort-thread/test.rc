@@ -1,0 +1,13 @@
+set help = no
+set sidebar_visible = no
+set sort = threads
+set sort_thread = last-date
+set hide_thread_subject = yes
+set strict_threads = yes
+set index_format = "%2C  %-10.10F %{%b %d}  %s"
+
+macro index <f5> "<enter-command>set sort_thread = date<enter>"
+macro index <f6> "<enter-command>set sort_thread = last-date<enter>"
+macro index <f7> "<enter-command>set sort_aux = reverse-date<enter>"
+macro index <f8> "<enter-command>set sort_aux = date<enter>"
+

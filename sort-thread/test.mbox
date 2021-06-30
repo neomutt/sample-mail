@@ -1,0 +1,146 @@
+From rich@banana.com Thu Jun  1 01:01:01 2021
+Date: Thu, 1 Jun 2021 01:01:01 +0100
+From: Richard <rich@banana.com>
+To: Armin <web-20210505@hawthorn.com>
+Subject: Lemon
+Message-ID: <20210505134209.5264ujirb5maa7lj@laptop.banana.com>
+Status: RO
+Lines: 20
+
+some text
+
+From rich@banana.com Thu Jun  2 02:02:02 2021
+Date: Thu, 2 Jun 2021 02:02:02 +0100
+From: Richard <rich@banana.com>
+To: Omen <mutt.flibble@elderberry.com>
+Subject: Mango
+Message-ID: <20210505135406.oqldr3hsxy5qsnmu@laptop.banana.com>
+Status: RO
+Lines: 24
+
+some text
+
+From omen@elderberry.com Thu Jun  6 06:06:06 2021
+Return-Path: <omen@elderberry.com>
+Delivered-To: flatcap-mail@banana.com
+Received: from localhost (localhost [127.0.0.1])
+	by flatcap.org (Postfix) with ESMTP id 0F06E2349
+	for <flatcap-mail@banana.com>; Thu,  6 Jun 2021 06:06:06 +0100 (BST)
+Date: Thu, 6 Jun 2021 09:28:41 -0700
+From: Omen <mutt.flibble@elderberry.com>
+To: Richard <rich@banana.com>
+Message-ID: <20210505162841.GB5167@elderberry.com>
+In-Reply-To: <20210505135406.oqldr3hsxy5qsnmu@laptop.banana.com>
+Subject: Re: Mango
+Status: RO
+Lines: 119
+
+some text
+
+From torresariass@cherry.com Thu Jun  3 03:03:03 2021
+Return-Path: <torresariass@cherry.com>
+Delivered-To: flatcap-mail@banana.com
+Received: from localhost (localhost [127.0.0.1])
+	by flatcap.org (Postfix) with ESMTP id 40C7B1B57
+	for <flatcap-mail@banana.com>; Thu,  3 Jun 2021 03:03:03 +0100 (BST)
+Date: Thu, 3 Jun 2021 11:53:37 -0400
+From: Santiago <torresariass@cherry.com>
+To: Richard <rich@banana.com>
+Cc: Yoshiki Baeza <yoshiki89@cherry.com>
+Subject: Nectarine
+Message-ID: <20210505155337.GA1217@damson.com>
+Status: RO
+Lines: 28
+
+some text
+
+From rich@banana.com Thu Jun  4 04:04:04 2021
+Date: Thu, 4 Jun 2021 04:04:04 +0100
+From: Richard <rich@banana.com>
+To: Santiago <torresariass@cherry.com>
+Cc: Yoshiki Baeza <yoshiki89@cherry.com>
+Subject: Re: Nectarine
+Message-ID: <20210505160927.heholgo2rbvd7tor@laptop.banana.com>
+In-Reply-To: <20210505155337.GA1217@damson.com>
+Status: RO
+Lines: 29
+
+some text
+
+From torresariass@cherry.com Thu Jun  5 05:05:05 2021
+Return-Path: <torresariass@cherry.com>
+Delivered-To: flatcap-mail@banana.com
+Received: from localhost (localhost [127.0.0.1])
+	by flatcap.org (Postfix) with ESMTP id 35B432349
+	for <flatcap-mail@banana.com>; Thu,  5 Jun 2021 05:05:05 +0100 (BST)
+Date: Thu, 5 Jun 2021 12:16:18 -0400
+From: Santiago <torresariass@cherry.com>
+To: Richard <rich@banana.com>
+Cc: Yoshiki Baeza <yoshiki89@cherry.com>
+Subject: Re: Nectarine
+Message-ID: <20210505161617.GB1217@damson.com>
+In-Reply-To: <20210505155337.GA1217@damson.com>
+Status: RO
+Lines: 16
+
+some text
+
+From yoshiki89@cherry.com Thu Jun  7 07:07:07 2021
+Return-Path: <yoshiki89@cherry.com>
+Delivered-To: flatcap-mail@banana.com
+Received: from localhost (localhost [127.0.0.1])
+	by flatcap.org (Postfix) with ESMTP id 3E17D2349
+	for <flatcap-mail@banana.com>; Thu,  7 Jun 2021 07:07:07 +0100 (BST)
+Date: Thu, 7 Jun 2021 09:30:21 -0700
+From: Yoshiki <yoshiki89@cherry.com>
+To: Santiago <torresariass@cherry.com>
+Cc: Richard Russon <rich@banana.com>
+Subject: Re: Nectarine
+Message-ID: <20210505163021.GD55704@apple.com>
+In-Reply-To: <20210505161617.GB1217@damson.com>
+Status: RO
+Lines: 21
+
+some text
+
+From rich@banana.com Sun Jun  8 08:08:08 2021
+Date: Sun, 8 Jun 2021 08:08:08 +0100
+From: Richard <rich@banana.com>
+To: Udo <udo.schweigert@guava.com>
+Subject: Olive
+Message-ID: <20210508125742.t57qosgfbwytnf5x@laptop.banana.com>
+Status: RO
+Lines: 22
+
+some text
+
+From udo.schweigert@guava.com Mon Jun  9 09:09:09 2021
+Return-Path: <udo.schweigert@guava.com>
+Delivered-To: flatcap-mail@banana.com
+Received: from localhost (localhost [127.0.0.1])
+	by flatcap.org (Postfix) with ESMTP id 8FA021937
+	for <flatcap-mail@banana.com>; Mon,  9 Jun 2021 09:09:09 +0100 (BST)
+Date: Mon, 9 Jun 2021 14:34:43 +0200
+From: Udo <Udo.Schweigert@guava.com>
+To: Richard <rich@banana.com>
+Cc: Udo Schweigert <Udo.Schweigert@guava.com>
+Subject: Re: Olive
+Message-ID: <20210509123443.GA75673@fig.com>
+In-Reply-To: <20210508125742.t57qosgfbwytnf5x@laptop.banana.com>
+Status: RO
+Lines: 37
+
+some text
+
+From rich@banana.com Tue Jun 10 10:10:10 2021
+Date: Tue, 10 Jun 2021 10:10:10 +0100
+From: Richard <rich@banana.com>
+To: Udo <Udo.Schweigert@guava.com>
+Subject: Re: Olive
+Message-ID: <20210509230328.wj734gicbx24lnn5@laptop.banana.com>
+In-Reply-To: <20210509123443.GA75673@fig.com>
+Status: RO
+Lines: 39
+
+some text
+
