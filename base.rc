@@ -10,7 +10,7 @@ account cars
 
 source child.rc
 
-  mailboxes "+daimler"
+  mailboxes "+daihatsu"
 
 account trees
   set folder = "$DEMO_DIR/t1/t2/t3/trees"

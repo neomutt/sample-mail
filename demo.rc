@@ -1,47 +1,104 @@
 source common.rc
 
 account cars
+  # desc "Vehicles"
   set folder = "$DEMO_DIR/cars"
-  set index_format = "CARS %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
+  set index_format = "CARS"
+  # set index_format = "CARS %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
   set sort = "from"
   set sort_aux = "from"
 
-  mailboxes "+audi"
-  mailboxes "+bentley"
-  mailboxes "+chrysler"
-  mailboxes "+daimler"
+  named-mailboxes Audi "+audi"
+    # desc "German"
+
+  named-mailboxes Bentley "+bentley"
+    # desc "British"
+    set index_format = "BENTLEY"
+    # set index_format = "BENTLEY %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
+
+  named-mailboxes Chrysler "+chrysler"
+    # desc "American"
+
+  named-mailboxes Daihatsu "+daihatsu"
+    # desc "Japanese"
+    set index_format = "DAIHATSU"
+    # set index_format = "DAIHATSU %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
+
+finish
+
+  mailbox AUDI
+    desc Audi
+    path "+audi"
+  mailbox BENTLEY
+    desc Bentley
+    path "+bentley"
+  mailbox CHRYSLER
+    desc Chrysler
+    path "+chrysler"
+  mailbox DAIHATSU
+    desc Daihatsu
+    path "+daihatsu"
+
+finish
 
 account fruit
+  desc "edible berries"
   set folder = "$DEMO_DIR/f1/fruit"
   set index_format = "FRUIT %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
   set sort = "score"
   set sort_aux = "score"
 
-  mailboxes "+lemon"
-  mailboxes "+melon"
-  mailboxes "+nectarine"
-  mailboxes "+orange"
+  mailbox LEMON
+    desc Lemon
+    path "+lemon"
+  mailbox MELON
+    desc Melon
+    path "+melon"
+  mailbox NECTARINE
+    desc Nectarine
+    path "+nectarine"
+  mailbox ORANGE
+    desc Orange
+    path "+orange"
 
 account ocean
+  desc "bodies of water"
   set folder = "$DEMO_DIR/o1/o2/ocean"
   set index_format = "OCEANS %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
   set sort = "threads"
   set sort_aux = "threads"
 
-  mailboxes "+atlantic"
-  mailboxes "+indian"
-  mailboxes "+pacific"
-  mailboxes "+southern"
+  mailbox ATLANTIC
+    desc Atlantic
+    path "+atlantic"
+  mailbox INDIAN
+    desc Indian
+    path "+indian"
+  mailbox PACIFIC
+    desc Pacific
+    path "+pacific"
+  mailbox SOUTHERN
+    desc Southern
+    path "+southern"
 
 account trees
+  desc "woody plants"
   set folder = "$DEMO_DIR/t1/t2/t3/trees"
   set index_format = "TREES %4C %Z %{%b %d} %-15.15L (%?l?%4l&%4c?) %s"
   set sort = "label"
   set sort_aux = "label"
 
-  mailboxes "+maple"
-  mailboxes "+oak"
-  mailboxes "+poplar"
-  mailboxes "+rowan"
+  mailbox MAPLE
+    desc Maple
+    path "+maple"
+  mailbox OAK
+    desc Oak
+    path "+oak"
+  mailbox POPLAR
+    desc Poplar
+    path "+poplar"
+  mailbox ROWAN
+    desc Rowan
+    path "+rowan"
 
 # vim: syn=neomuttrc
