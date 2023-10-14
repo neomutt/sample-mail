@@ -1,0 +1,10 @@
+From apple@example.com Sat Oct 14 02:00:00 2023
+From: apple <apple@example.com>
+To: rich@example.com
+Subject: ANSI Multi
+Date: Sat, 14 Oct 2023 02:00:00 +0100 (GMT)
+
+red [31mXXXXXX[0m [38;5;1mXXXXXX[0m [38;2;128;0;0mXXXXXX[0m
+
+color123 [38;5;123mXXXXXX[0m [38;2;111;231;231mXXXXXX[0m
+
