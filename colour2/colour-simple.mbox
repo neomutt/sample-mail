@@ -1,0 +1,26 @@
+From apple@example.com Sat Oct 14 02:00:00 2023
+From: apple <apple@example.com>
+To: rich@example.com
+Subject: Simple Colours
+Date: Sat, 14 Oct 2023 02:00:00 +0100 (GMT)
+
+         normal  bright  light   alert
+black    WWWWW0  XXXXX0  YYYYY0  ZZZZZ0
+red      WWWWW1  XXXXX1  YYYYY1  ZZZZZ1
+green    WWWWW2  XXXXX2  YYYYY2  ZZZZZ2
+yellow   WWWWW3  XXXXX3  YYYYY3  ZZZZZ3
+blue     WWWWW4  XXXXX4  YYYYY4  ZZZZZ4
+magenta  WWWWW5  XXXXX5  YYYYY5  ZZZZZ5
+cyan     WWWWW6  XXXXX6  YYYYY6  ZZZZZ6
+white    WWWWW7  XXXXX7  YYYYY7  ZZZZZ7
+
+         normal  bright  light   alert
+black    PPPPP0  QQQQQ0  RRRRR0  SSSSS0
+red      PPPPP1  QQQQQ1  RRRRR1  SSSSS1
+green    PPPPP2  QQQQQ2  RRRRR2  SSSSS2
+yellow   PPPPP3  QQQQQ3  RRRRR3  SSSSS3
+blue     PPPPP4  QQQQQ4  RRRRR4  SSSSS4
+magenta  PPPPP5  QQQQQ5  RRRRR5  SSSSS5
+cyan     PPPPP6  QQQQQ6  RRRRR6  SSSSS6
+white    PPPPP7  QQQQQ7  RRRRR7  SSSSS7
+

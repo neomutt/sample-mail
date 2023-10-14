@@ -1,0 +1,24 @@
+From apple@example.com Sat Oct 14 02:00:00 2023
+From: apple <apple@example.com>
+To: rich@example.com
+Subject: ANSI Simple
+Date: Sat, 14 Oct 2023 02:00:00 +0100 (GMT)
+
+black    [30mWWWWW0[0m
+red      [31mWWWWW1[0m
+green    [32mWWWWW2[0m
+yellow   [33mWWWWW3[0m
+blue     [34mWWWWW4[0m
+magenta  [35mWWWWW5[0m
+cyan     [36mWWWWW6[0m
+white    [37mWWWWW7[0m
+
+black    [40mWWWWW0[0m
+red      [41mWWWWW1[0m
+green    [42mWWWWW2[0m
+yellow   [43mWWWWW3[0m
+blue     [44mWWWWW4[0m
+magenta  [45mWWWWW5[0m
+cyan     [46mWWWWW6[0m
+white    [47mWWWWW7[0m
+

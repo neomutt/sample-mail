@@ -1,0 +1,50 @@
+From apple@example.com Sat Oct 14 02:00:00 2023
+From: apple <apple@example.com>
+To: rich@example.com
+Subject: Attributes
+Date: Sat, 14 Oct 2023 02:00:00 +0100 (GMT)
+
+none      XXXXX0
+normal    XXXXX1
+bold      XXXXX2
+italic    XXXXX3
+reverse   XXXXX4
+standout  XXXXX5
+underline XXXXX6
+
+                                            XXXX01
+                                 underline  XXXX02
+                       standout             XXXX03
+                       standout  underline  XXXX04
+              reverse                       XXXX05
+              reverse            underline  XXXX06
+              reverse  standout             XXXX07
+              reverse  standout  underline  XXXX08
+
+      italic                                XXXX09
+      italic                     underline  XXXX10
+      italic           standout             XXXX11
+      italic           standout  underline  XXXX12
+      italic  reverse                       XXXX13
+      italic  reverse            underline  XXXX14
+      italic  reverse  standout             XXXX15
+      italic  reverse  standout  underline  XXXX16
+
+bold                                        XXXX17
+bold                             underline  XXXX18
+bold                   standout             XXXX19
+bold                   standout  underline  XXXX20
+bold          reverse                       XXXX21
+bold          reverse            underline  XXXX22
+bold          reverse  standout             XXXX23
+bold          reverse  standout  underline  XXXX24
+
+bold  italic                                XXXX25
+bold  italic                     underline  XXXX26
+bold  italic           standout             XXXX27
+bold  italic           standout  underline  XXXX28
+bold  italic  reverse                       XXXX29
+bold  italic  reverse            underline  XXXX30
+bold  italic  reverse  standout             XXXX31
+bold  italic  reverse  standout  underline  XXXX32
+

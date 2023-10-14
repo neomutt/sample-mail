@@ -1,0 +1,46 @@
+From apple@example.com Sat Oct 14 02:00:00 2023
+From: apple <apple@example.com>
+To: rich@example.com
+Subject: ANSI Attributes
+Date: Sat, 14 Oct 2023 02:00:00 +0100 (GMT)
+
+normal    XXXXX1
+blink     [5mXXXXX2[0m
+bold      [1mXXXXX3[0m
+italic    [3mXXXXX4[0m
+reverse   [7mXXXXX5[0m
+underline [4mXXXXX6[0m
+
+                                    XXXX01
+                          underline [4mXXXX02[0m
+                  reverse           [7mXXXX03[0m
+                  reverse underline [7;4mXXXX04[0m
+           italic                   [3mXXXX05[0m
+           italic         underline [3;4mXXXX06[0m
+           italic reverse           [3;7mXXXX07[0m
+           italic reverse underline [3;7;4mXXXX08[0m
+      bold                          [1mXXXX09[0m
+      bold                underline [1;4mXXXX10[0m
+      bold        reverse           [1;7mXXXX11[0m
+      bold        reverse underline [1;7;4mXXXX12[0m
+      bold italic                   [1;3mXXXX13[0m
+      bold italic         underline [1;3;4mXXXX14[0m
+      bold italic reverse           [1;3;7mXXXX15[0m
+      bold italic reverse underline [1;3;7;4mXXXX16[0m
+blink                               [5mXXXX17[0m
+blink                     underline [5;4mXXXX18[0m
+blink             reverse           [5;7mXXXX19[0m
+blink             reverse underline [5;7;4mXXXX20[0m
+blink      italic                   [5;3mXXXX21[0m
+blink      italic         underline [5;3;4mXXXX22[0m
+blink      italic reverse           [5;3;7mXXXX23[0m
+blink      italic reverse underline [5;3;7;4mXXXX24[0m
+blink bold                          [5;1mXXXX25[0m
+blink bold                underline [5;1;4mXXXX26[0m
+blink bold        reverse           [5;1;7mXXXX27[0m
+blink bold        reverse underline [5;1;7;4mXXXX28[0m
+blink bold italic                   [5;1;3mXXXX29[0m
+blink bold italic         underline [5;1;3;4mXXXX30[0m
+blink bold italic reverse           [5;1;3;7mXXXX31[0m
+blink bold italic reverse underline [5;1;3;7;4mXXXX32[0m
+
