@@ -1,0 +1,14 @@
+From info@аррӏе.com Fri Jun  3 13:38:53 2022
+Date: Fri, 03 Jun 2022 13:39:03 +0100
+From: Apple Corp <info@аррӏе.com>
+To: john@example.com
+Subject: TEST
+Status: RO
+Content-Length: 4
+
+test
+
+info@apple.com  plain ASCII
+info@аррӏе.com  lower case cyrillic
+xn--info@-8ve9a1fa44l.com
+
