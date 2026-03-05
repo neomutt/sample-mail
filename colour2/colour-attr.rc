@@ -41,4 +41,4 @@ color body bold  italic  reverse            underline  default default "XXXX30"
 color body bold  italic  reverse  standout             default default "XXXX31"
 color body bold  italic  reverse  standout  underline  default default "XXXX32"
 
-# vim: syn=neomuttrc
+# vim: ft=neomuttrc

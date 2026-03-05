@@ -13,4 +13,4 @@ bind index,pager \CN sidebar-next
 bind index,pager \CO sidebar-open
 bind index,pager \CP sidebar-prev
 
-# vim: syn=neomuttrc
+# vim: ft=neomuttrc

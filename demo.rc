@@ -101,4 +101,4 @@ account trees
     desc Rowan
     path "+rowan"
 
-# vim: syn=neomuttrc
+# vim: ft=neomuttrc

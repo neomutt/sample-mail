@@ -70,4 +70,4 @@ color body default alertmagenta  "SSSSS5"
 color body default alertcyan     "SSSSS6"
 color body default alertwhite    "SSSSS7"
 
-# vim: syn=neomuttrc
+# vim: ft=neomuttrc

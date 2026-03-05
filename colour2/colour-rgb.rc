@@ -1540,4 +1540,4 @@ color body default #0000FD "B_0000FD"
 color body default #0000FE "B_0000FE"
 color body default #0000FF "B_0000FF"
 
-# vim: syn=neomuttrc
+# vim: ft=neomuttrc

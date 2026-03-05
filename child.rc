@@ -24,4 +24,4 @@ account ocean
   mailboxes "+pacific"
   mailboxes "+southern"
 
-# vim: syn=neomuttrc
+# vim: ft=neomuttrc

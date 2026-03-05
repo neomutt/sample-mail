@@ -23,4 +23,4 @@ account trees
   mailboxes "+poplar"
   mailboxes "+rowan"
 
-# vim: syn=neomuttrc
+# vim: ft=neomuttrc

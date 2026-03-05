@@ -512,4 +512,4 @@ color body default color253 "FDXXXX"
 color body default color254 "FEXXXX"
 color body default color255 "FFXXXX"
 
-# vim: syn=neomuttrc
+# vim: ft=neomuttrc
